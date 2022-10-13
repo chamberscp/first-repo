@@ -1,3 +1,3 @@
 # First Repository
 
-Hello World
+This is the second commit for this repository.
